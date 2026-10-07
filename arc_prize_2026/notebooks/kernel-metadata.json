@@ -1,0 +1,16 @@
+{
+  "id": "ctyjackcao/arc-prize-2026-sota-solver",
+  "title": "ARC Prize 2026 SOTA Solver",
+  "code_file": "kaggle_submission_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [
+    "arc-prize-2026-arc-agi-2"
+  ],
+  "kernel_sources": []
+}
