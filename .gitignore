@@ -1,0 +1,25 @@
+# Credentials & Sessions
+.colab_session.json
+kaggle.json
+*.key
+*.pem
+
+# Python Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Large Data & Model Weights (Saved to Google Drive instead)
+*.npy
+*.npz
+*.pt
+*.pth
+*.tsv
+*.csv
+*.zip
+*.tar.*
+data/
+checkpoints/
+multimodal/
+esm2/
